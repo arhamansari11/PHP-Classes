@@ -1,4 +1,4 @@
-# PHP-Classes
 
-Firstly You have ti install XAMPP and then open the XAMPP.
-After open the XAMPP you have to start the Apache.
+# How to run PHP in your Browser.
+ Firstly you have to install XAMMP. <br>
+ After intsall XAMPP open the XAMPP Controll Panel and just start the Apache Module.
