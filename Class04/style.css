@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: poppins;
+}
+h1{
+    color: green;
+    font-weight: 600;
+}
+p{
+    padding: 7px 20px;
+    background-color: rgb(126, 247, 158);
+    margin-top: 25px;
+    border-radius: 6px;
+    color: #212121;
+    font-weight: 500;
+}
