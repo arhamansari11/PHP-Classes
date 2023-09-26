@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #e7e7e7;
+}
+input:focus{
+    box-shadow: none !important;
+    border: 2px solid #fbbf32 !important;
+}
+.eye-icon{
+    position: absolute;
+    top: 42px;
+    right: 10px;
+    color: #000;
+    cursor: pointer;
+
+}
