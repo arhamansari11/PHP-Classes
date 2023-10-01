@@ -1,0 +1,32 @@
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+    /* color: white; */
+}
+.form-class>input{
+/* border: none; */
+width: 400px !important;
+height: 40px !important;
+margin-top: 10px !important;
+/* border-radius: 20px !important; */
+border: 2px solid black;
+}
+.form-class>textarea{
+/* border: none; */
+width: 400px !important;
+/* height: 40px !important; */
+margin-top: 10px !important;
+/* border-radius: 20px !important; */
+border: 2px solid black;
+}
+.icon-class>a{
+    font-size: 20px !important;
+    margin-left: 18px !important;
+    color:red !important;
+}
+.icon1-class>i{
+    font-size: 20px !important;
+    margin-left: 18px !important;
+    color: green !important;
+}
